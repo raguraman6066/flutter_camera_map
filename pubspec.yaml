@@ -37,6 +37,7 @@ dependencies:
   provider: ^6.0.3
   image_picker: ^0.8.5+3
   path:
+  google_maps_flutter: ^2.2.1
   path_provider: ^2.0.11
   sqflite:
   location: ^4.4.0
